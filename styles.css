@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    background-color: #1A1A2E;
+    color: #fff;
+    font-weight: bold;
+    height: 100vh;
+}
+
+.concluded {
+    color: #E94560;
+}
+
+.title-container{
+    background-color: #0F3460;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+ul {
+    height: 70vh;
+}
+
+footer {
+    background-color: #16213E;
+    padding: 15px;
+    border-radius: 12px;
+}
